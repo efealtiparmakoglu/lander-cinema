@@ -1,0 +1,9 @@
+{
+  "output": "renders/rcs_gorevi.gif",
+  "gimbal_genlik": 4.0,
+  "gimbal_throttle": 0.35,
+  "sun": { "elevation_deg": 22, "azimuth_deg": 140, "strength": 6.5 },
+  "zemin": { "color": [0.15, 0.145, 0.13] },
+  "camera": { "position": [6.5, -7, 2.6], "look_at": [0, 0, 2.8], "lens": 45 },
+  "render": { "width": 1280, "height": 720, "samples": 48, "exposure": 0.3, "look": "Medium High Contrast" }
+}
